@@ -26,6 +26,5 @@ These days, I enjoy solving hard technical problems, thinking about architecture
 Always happy to talk tech, architecture, security, AI, or just geek out about interesting engineering problems. 🙂  
   
 * 🌍  I'm based in Redmond, Washington, USA
-* 🖥️  See my portfolio at [http://victorh.dev](http://victorh.dev)
 * ✉️  You can contact me at [contact@victorh.dev](mailto:contact@victorh.dev)
 * 👥  I'm looking to collaborate on interesting projects
