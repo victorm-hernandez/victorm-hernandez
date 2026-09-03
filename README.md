@@ -15,13 +15,9 @@
 
 ### Glad to see you here!
 
-Hey everyone! I’m a software engineer and technical leader with 20+ years in the industry, with the last 15+ focused heavily on Identity and Access Management.
+Hey everyone! I’m a software engineer focused heavily on Identity and Access Management on the Cloud.
 
-Most of my work has been around building large-scale identity and security systems: authentication, authorization, M2M, token exchange, and standards like OAuth, OIDC, JWT, SAML, and SCIM. I’ve spent a good chunk of my career designing distributed and microservice-based systems that need to operate reliably at pretty massive scale.
-
-I’ve also had the opportunity to lead some pretty challenging projects, from consolidating identity systems across large organizations to working on passwordless authentication and Passkeys.
-
-These days, I enjoy solving hard technical problems, thinking about architecture and security, mentoring other engineers, and generally figuring out how to make complex systems a little less complex.
+These days, I enjoy solving technical problems and generally figuring out how to make complex systems a little less complex.
 
 Always happy to talk tech, architecture, security, AI, or just geek out about interesting engineering problems. 🙂  
   
