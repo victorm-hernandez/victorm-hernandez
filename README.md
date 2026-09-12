@@ -9,7 +9,7 @@
 
 ### Glad to see you here!
 
-Hey everyone! I’m a software engineer focused heavily on Identity and Access Management on the Cloud.
+Hey everyone! I’m a software engineer focused heavily on Identity and Access Management on the Cloud. Recently, I have been diving headfirst into agentic engineering.
 
 These days, I enjoy solving technical problems and generally figuring out how to make complex systems a little less complex.
 
