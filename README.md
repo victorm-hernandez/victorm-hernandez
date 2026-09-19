@@ -11,7 +11,7 @@
 
 I’m a software engineer focused heavily on Identity and Access Management on the Cloud. Recently, I have been diving headfirst into agentic engineering.
 
-These days, I enjoy solving technical problems and generally figuring out how to make complex systems a little less complex.
+I enjoy solving technical problems and generally figuring out how to make complex systems a little less complex.
 
 Always happy to talk tech, architecture, security, AI, or just geek out about interesting engineering problems. 🙂  
   
